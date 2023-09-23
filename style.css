@@ -2,6 +2,7 @@ body {
     background-color: #2b2b2b;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
 }
 
@@ -16,4 +17,8 @@ body h2 {
 
 body h3 {
     color: #cc0096
+}
+
+body h4 {
+    color: #ff0000;
 }
